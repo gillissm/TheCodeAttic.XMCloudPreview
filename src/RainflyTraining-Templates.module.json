@@ -1,0 +1,43 @@
+{
+    "namespace": "RainflyTraining-Templates",
+    "items": {
+        "includes": [
+            {
+                "name": "project",
+                "path": "/sitecore/templates/Project/RainflyTraining"
+            },
+            {
+                "name": "product",
+                "path": "/sitecore/templates/Feature/Product"
+            },
+            {
+                "name": "pagecontent",
+                "path": "/sitecore/templates/Feature/PageContent"
+            },
+            {
+                "name": "navigation",
+                "path": "/sitecore/templates/Feature/Navigation"
+            },
+            {
+                "name": "event",
+                "path": "/sitecore/templates/Feature/Events"
+            },
+            {
+                "name": "fnd-base",
+                "path": "/sitecore/templates/Foundation/Base"
+            },
+            {
+                "name": "fnd-content",
+                "path": "/sitecore/templates/Foundation/Content"
+            },
+            {
+                "name": "branch-project",
+                "path": "/sitecore/templates/Branches/Project/RainflyTraining"
+            },
+            {
+                "name": "branch-feature",
+                "path": "/sitecore/templates/Branches/Feature/Navigation"
+            }
+        ]
+    }
+}

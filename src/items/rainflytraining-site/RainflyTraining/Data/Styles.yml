@@ -1,0 +1,23 @@
+﻿---
+ID: "19295a3f-876b-4450-b976-ed8a5faa0d85"
+Parent: "9085b335-82c6-4153-8a34-428344c615e9"
+Template: "44c68cec-fe3d-4f2b-8c20-5fe2d4ad2d4a"
+Path: /sitecore/content/RainflyTraining/Data/Styles
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220818T160704Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77147217-ea38-420f-a729-0ba28059ebfd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220818T160704Z

@@ -1,0 +1,23 @@
+﻿---
+ID: "2c0b8f71-3b53-46d2-88c5-8ac021be7561"
+Parent: "c6688203-1bcb-4019-bad6-3e37871588c0"
+Template: "583d498c-b413-48f3-8186-ff2e4a74d7b6"
+Path: /sitecore/templates/Branches/Project/RainflyTraining/EventPage/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220801T132547Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f4cdc35-a234-4252-a6dc-2a9d9107fae5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220801T132547Z

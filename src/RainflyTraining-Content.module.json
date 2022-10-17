@@ -1,0 +1,20 @@
+{
+    "namespace": "RainflyTraining-Content",
+    "references": ["RainflyTraining-Renderings" ],
+    "items": {
+        "includes": [
+            {
+                "name": "media-rainfly",
+                "path": "/sitecore/media library/RainflyTraining"
+            },
+            {
+                "name": "globalpromos-rainfly",
+                "path": "/sitecore/content/Global-Promos"
+            },
+            {
+                "name": "rainflytraining-site",
+                "path": "/sitecore/content/RainflyTraining"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+﻿---
+ID: "f99f1d2e-b2c8-4646-9ff3-f62156cd130d"
+Parent: "ef3d31a2-24a9-46ab-bf9a-87b360a4fb6d"
+Template: "4851db88-673a-4136-97cc-79b88bf51a84"
+Path: "/sitecore/content/RainflyTraining/Home/Data/right-linkcard"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: Learn More
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220818T205138Z
+    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
+      Hint: Copy
+      Value: "<p>Come learn a little more about our trips!</p>"
+    - ID: "7eb0590f-58cd-4b32-ad6d-13d28c2573f7"
+      Hint: PrimaryActionLink
+      Value: |
+        <link linktype="internal" querystring="" target="" id="{76CC0D0D-8DA6-4058-9891-290E5EDB8A6E}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c00f1872-204c-488c-b1d0-5284dc8ae39c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220818T205350Z

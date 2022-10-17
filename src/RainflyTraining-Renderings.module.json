@@ -1,0 +1,24 @@
+{
+    "namespace": "RainflyTraining-Renderings",
+    "references": [ "RainflyTraining-Templates" ],
+    "items": {
+        "includes": [
+            {
+                "name": "layouts-rainfly",
+                "path": "/sitecore/layout/Layouts/Project/RainflyTraining"
+            },           
+            {
+                "name": "renderings-products",
+                "path": "/sitecore/layout/Renderings/Feature/Product"
+            },
+            {
+                "name": "renderings-pagecontent",
+                "path": "/sitecore/layout/Renderings/Feature/PageContent"
+            },
+            {
+                "name": "renderings-navigation",
+                "path": "/sitecore/layout/Renderings/Feature/Navigation"
+            }
+        ]
+    }
+}

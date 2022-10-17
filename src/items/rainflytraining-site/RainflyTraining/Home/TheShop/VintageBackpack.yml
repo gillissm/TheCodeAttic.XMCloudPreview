@@ -1,0 +1,52 @@
+﻿---
+ID: "748b8108-9ccb-4124-bd5e-5a6cfbf7b39c"
+Parent: "903a9eef-c054-43bf-b67a-175d88477455"
+Template: "9ec14a2d-55f8-4540-9137-e66f01b916d1"
+Path: /sitecore/content/RainflyTraining/Home/TheShop/VintageBackpack
+BranchID: "431a4468-4049-4d7d-89c3-3b1fa98f00db"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8419A746-4996-40CD-BFFA-1570362B405C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a209e70-fbb1-4a7a-b468-56f47e2176dc"
+      Hint: BrowserTitle
+      Value: VintageBackpack
+    - ID: "167e607c-3080-450e-85e0-cd60958456a5"
+      Hint: Image
+      Value: |
+        <image mediaid="{F0C0E86D-32DE-46E0-8213-4C658680BF46}" />
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: Classic Hiking Packback
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220830T134940Z
+    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
+      Hint: Copy
+      Value: |
+        <p>Still in working condition, even after 80 years of abuse.</p>
+        <p>Show your manliness on your next hike with this pack.</p>
+    - ID: "8260155a-ce0a-450b-bf48-74a5897be58e"
+      Hint: Rating
+      Value: 3
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0fdab10-2b4a-4daa-9f29-1eb4bbc02317"
+    - ID: "91290aba-e8dd-4020-9a00-e58326408d42"
+      Hint: Cost
+      Value: 55.78
+    - ID: "9a18b77d-76c9-4bb0-9e21-9e1593f5344e"
+      Hint: MetaKeywords
+      Value: backpack vintage old
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220830T135113Z

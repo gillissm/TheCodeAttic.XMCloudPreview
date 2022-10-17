@@ -1,0 +1,32 @@
+﻿---
+ID: "9b5e1726-69f7-4cae-965a-aa4d235c2278"
+Parent: "e2f2bd71-7d31-425e-8e32-9c879d71cd4b"
+Template: "0a428c01-a955-495d-b306-7e0a7ecbf8da"
+Path: "/sitecore/content/RainflyTraining/Home/Blog-Landing-Page/Fall-Hiking-Tips/Data"
+BranchID: "5eb2bf18-3afb-418c-a15f-51a745ea335f"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{241B99AB-F0B8-46E3-B479-DEBE0BC47465}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220927T120205Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1eea92a-09e1-43ac-aa81-3935d04a3dcf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220927T120205Z

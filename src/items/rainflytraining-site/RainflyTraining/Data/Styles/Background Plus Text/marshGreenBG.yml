@@ -1,0 +1,26 @@
+﻿---
+ID: "87f4c33d-21c6-46c4-a3ab-c967379f1f4a"
+Parent: "2c1fa7b8-b56e-46e7-bbaf-35feb68274a0"
+Template: "2bb5a4b6-4547-4a73-9528-41c5c26dfd24"
+Path: /sitecore/content/RainflyTraining/Data/Styles/Background Plus Text/marshGreenBG
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220818T161007Z
+    - ID: "260cfb47-f7ee-4f9c-a8db-ff98523cae49"
+      Hint: Classname
+      Value: marshGreenBG
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "803ea2a2-3a46-4aba-b332-dc1389f6eba3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220818T161007Z

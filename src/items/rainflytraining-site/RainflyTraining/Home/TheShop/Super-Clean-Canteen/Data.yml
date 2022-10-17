@@ -1,0 +1,32 @@
+﻿---
+ID: "084f80ae-8943-4a91-989c-1234228a0c26"
+Parent: "6990238c-7216-4b32-b55c-68027e8e54af"
+Template: "0a428c01-a955-495d-b306-7e0a7ecbf8da"
+Path: "/sitecore/content/RainflyTraining/Home/TheShop/Super-Clean-Canteen/Data"
+BranchID: "431a4468-4049-4d7d-89c3-3b1fa98f00db"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{656F01BC-01A8-4CBF-83C1-6D1EDB4D28C4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220927T120135Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "326bc265-52b1-4515-80d6-0420d6001d1f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220927T120135Z

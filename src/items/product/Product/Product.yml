@@ -1,0 +1,43 @@
+﻿---
+ID: "efce9b35-3cfa-4bda-853d-bf4614b3247f"
+Parent: "e8c4ca9f-ca4f-4865-bff0-76177c67d5dd"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Product/Product
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/hand_truck_box.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {7879CEA4-44EB-498B-9917-0DA4646E1021}
+    {5A864363-5902-4CDB-8421-9B8AE7C1A013}
+    {B333BDE8-7D00-4BDA-858D-DF45EBA98E7A}
+    {DFD71B66-796C-4BDE-A2BB-B60958D7BAF8}
+    {3B0D8A32-ECFC-49FD-8E4D-12C7D6D19958}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{60850C45-FBB7-40AB-A11F-7FBF873E01D0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220801T120714Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "69eefa68-440d-4c40-a65e-5463e51b84ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220801T121752Z

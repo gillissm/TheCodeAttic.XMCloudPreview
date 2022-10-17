@@ -47,7 +47,7 @@ Function Add-JssProject {
       jss setup `
         --instancePath "..\..\docker\deploy\platform\" `
         --layoutServiceHost "https://xmcloudcm.localhost" `
-        --apiKey "B2F8A9B9-7203-4DCF-9314-8B28B043347E" `
+        --apiKey "547A232E-9BDD-409F-9824-9076E265C661" `
         --deployUrl "https://xmcloudcm.localhost/sitecore/api/jss/import" `
         --deploySecret "10F1C44A496B45478640DD36F80C18C9" `
         --nonInteractive `

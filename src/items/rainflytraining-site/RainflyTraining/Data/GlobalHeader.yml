@@ -1,0 +1,49 @@
+﻿---
+ID: "91b4e3b9-6f60-4a4f-8c60-53089067dc4e"
+Parent: "9085b335-82c6-4153-8a34-428344c615e9"
+Template: "a5ce7eef-0e8f-41fb-ab97-f4b4b0a8dd1c"
+Path: /sitecore/content/RainflyTraining/Data/GlobalHeader
+BranchID: "3ba6fdd4-9e8b-4c11-bc05-a30717417772"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{748FDFA5-9024-4269-B12C-DE23D114E157}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{54DF24F6-B1BB-46C7-B94B-CEA6A315F046}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220802T175317Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "72a2f77f-6fe5-4d55-811b-e89ed73e049c"
+      Hint: CompanyLogo
+      Value: |
+        <image mediaid="{4BD2B7F5-2CAC-4F70-BDC6-392CC1E34E04}" alt="" height="75" width="350" hspace="" vspace=""></image>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c949c49e-720c-49b2-a2bd-6aa96f83d75a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "bc176b2f-fa17-42d2-8da2-490940073ea0"
+      Hint: WelcomeMessage
+      Value: "learning the Fun Way!"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220818T200417Z

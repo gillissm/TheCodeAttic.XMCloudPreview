@@ -1,0 +1,23 @@
+﻿---
+ID: "d3321032-b472-411f-b9d9-d8f9c1b654b4"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: "/sitecore/content/Global-Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221006T181801Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "34615a32-4830-4df3-b270-dcc883b08be7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221006T181801Z

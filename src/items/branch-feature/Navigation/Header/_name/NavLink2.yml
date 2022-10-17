@@ -1,0 +1,26 @@
+﻿---
+ID: "6585d334-448e-4639-b0cc-c699b51bb0bf"
+Parent: "54df24f6-b1bb-46c7-b94b-cea6a315f046"
+Template: "748fdfa5-9024-4269-b12c-de23d114e157"
+Path: /sitecore/templates/Branches/Feature/Navigation/Header/$name/NavLink2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220802T171656Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3246d8a8-c0a0-41d3-9e23-9278c0a4c87d"
+    - ID: "ac55a0d5-d92c-4c44-b918-2373e243e7d8"
+      Hint: DisplayTitle
+      Value: Nav2
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220802T171726Z

@@ -1,0 +1,27 @@
+﻿---
+ID: "656f01bc-01a8-4cbf-83c1-6d1edb4d28c4"
+Parent: "8419a746-4996-40cd-bffa-1570362b405c"
+Template: "0a428c01-a955-495d-b306-7e0a7ecbf8da"
+Path: /sitecore/templates/Branches/Project/RainflyTraining/ProductPage/$name/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220801T132538Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c1291a9-6c07-47a7-bfbb-e928ba0acc55"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220801T132538Z
